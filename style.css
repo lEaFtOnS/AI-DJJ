@@ -1,0 +1,45 @@
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-position:center;
+    
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0;
+    font-size: 20px;
+}
+#sub_heading{
+font-size: 17px;
+}
+
+#div_speed  img{
+width:200px;
+}
+#div_speed {
+    float:left;
+    margin-left: 10px
+    
+}
+#div_speed  h3{
+    padding-left: 10px;
+    color:#FFFF00
+}
+#div_volume  img{
+    width:200px;
+
+    }
+    #div_volume h3{
+        padding-left: 10px;
+        color:#FFFF00}
+    #div_volume{
+    float:right;
+    }
+    canvas{
+        border-width:10px ;
+        border-style:double;
+        border-color: yellowgreen;
+        
+        
+    }
